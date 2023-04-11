@@ -1,0 +1,10 @@
+{
+  "getRetailStoreDetailsRequest": {
+    "storeId": "32",
+    "applicationDataInfo": {
+      "applicationID": "RHS",
+      "applicationUser": "storeuser148"
+      
+    }
+  }
+}
